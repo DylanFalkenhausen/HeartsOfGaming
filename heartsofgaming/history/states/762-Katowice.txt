@@ -1,0 +1,32 @@
+state={
+	id=762
+	name="STATE_762"
+	provinces={
+		506 6464
+	}
+	manpower=1000000
+	resources={
+		steel=19
+		aluminium=7 
+	}
+	state_category = large_city
+	history={
+		victory_points = {
+			6464 15
+		}
+		victory_points = {
+			506 5
+		}
+		owner = ARK
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 2
+		}
+		add_core_of = ARK
+		add_core_of = SIL
+		add_core_of = POL
+	}
+
+	local_supplies=0.0 
+}

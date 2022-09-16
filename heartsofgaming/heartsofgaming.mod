@@ -1,0 +1,16 @@
+version="0.1.1"
+picture="thumbnail.png"
+tags={
+	"Alternative History"
+	"Map"
+	"National Focuses"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Ideologies"
+}
+name="Hearts of Gaming"
+replace_path="gfx/loading_screens"
+supported_version="1.11.13"
+path="C:/Users/asus/Documents/Paradox Interactive/Hearts of Iron IV/mod/heartsofgaming"
+remote_file_id="2861599795"
